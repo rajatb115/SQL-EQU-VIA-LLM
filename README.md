@@ -12,5 +12,5 @@ The 'result' folder contains three folders, each containing code for each datase
 
 ## Instruction for Fine-tuning the model
 The 'finetune' folder contains all the files required for fine-tuning. The dataset we used to finetune is in the 'finetune/dataset' folder, and the script used to fine-tune the model is in the 'finetune\script' folder. Before running the finetuning code ('finetune.ipynb'), please make the following changes: <br>
-- Download the relevant models (specifically CodeLLama-7B and CodeLLama-13B) from Hugging Face (https://huggingface.co).
+- Download the relevant models (specifically CodeLLama-13B) from Hugging Face (https://huggingface.co).
 - Update all the paths in 'finetune.ipynb' file.
