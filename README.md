@@ -1,5 +1,7 @@
 # Can the Rookies Cut the Tough Cookie? Exploring the Use of LLMs for SQL Equivalence Checking
+Anonymous Author(s)
 <hr>
+
 
 ## Environment Details
 We use Python 3.9.18 to run each file. We use Pytorch '2.2.1' with cuda '12.1.105'. 
